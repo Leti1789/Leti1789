@@ -6,12 +6,10 @@
 </div>
 
 <br/>
-
-- 🌱 My name is niefee, I am Chinese, welcome to my GitHub home page
-- ⚡ I know HTML
-- 😄 And a little bit of CSS, JavaScript, ReactJS, NodeJS, Vue.js, etc.
-- 💖 Love the beautiful code and photos
-- 🔥 One is never too old to learn.
+🌱 My name is Leticia A. Dimotta, I'm from Argentina, welcome to my GitHub home page
+⚡ I know HTML
+😄 And CSS, JavaScript, ReactJS, Redux, NodeJS, Express, SQL, PostgreSQL, Sequelize, etc.
+💖 I love beautiful code and website design🔥 You are never too old to learn, you have to learn throughout your life.
 
 <br/>
 
@@ -38,7 +36,7 @@
 
 ------
 
-Credit: [Niefee](https://github.com/Niefee)
-Last Edited on 03/02/2023
+Credit: [Leticia A. Dimotta](https://github.com/Leti1789)
+Last Edited on 30/05/2023
 
 
