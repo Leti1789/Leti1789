@@ -6,10 +6,11 @@
 </div>
 
 <br/>
-🌱 My name is Leticia A. Dimotta, I'm from Argentina, welcome to my GitHub home page
-⚡ I know HTML
-😄 And CSS, JavaScript, ReactJS, Redux, NodeJS, Express, SQL, PostgreSQL, Sequelize, etc.
-💖 I love beautiful code and website design🔥 You are never too old to learn, you have to learn throughout your life.
+
+-🌱 My name is Leticia A. Dimotta, I'm from Argentina, welcome to my GitHub home page
+-⚡ I know HTML
+-😄 And CSS, JavaScript, ReactJS, Redux, NodeJS, Express, SQL, PostgreSQL, Sequelize, etc.
+-💖 I love beautiful code and website design🔥 You are never too old to learn, you have to learn throughout your life.
 
 <br/>
 
